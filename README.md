@@ -9,6 +9,8 @@ https://play.picoctf.org/practice?difficulty=1&page=1
 
 ## Helpful Resources
 ### Tools:
+https://software.hixie.ch/utilities/cgi/unicode-decoder/utf8-decoder
+https://futureboy.us/stegano/decode.pl
 https://extract.me/ \
 https://subdomainfinder.c99.nl/ \
 https://whatismyipaddress.com/#google_vignette \
